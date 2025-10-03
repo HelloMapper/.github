@@ -1,4 +1,4 @@
-# 🌏 HelloMapper  
+# HelloMapper  
 
 > **Connecting Communities. Simplifying Care. Building Trust.**
 
