@@ -37,7 +37,7 @@ Our mission is simple:
 ##  Key Features  
 
  Onboarding & profiles for clients & contractors  
- AI-enhanced job posting & matching  
+ Enhanced job posting & matching  
  Real-time chat, calls, and notifications  
  GPS check-in/out for proof of service  
  Two-way reviews & rating system  
